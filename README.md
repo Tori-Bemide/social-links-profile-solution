@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Server]()
+- Solution URL: [Solution](https://github.com/Tori-Bemide/social-links-profile-solution)
+- Live Site URL: [Live Server](https://tori-bemide.github.io/social-links-profile-solution/)
 
 ## My process
 
