@@ -41,7 +41,7 @@ body {
 .wrapper {
   background: var(--grey-800);
   color: var(--white);
-  padding: 1rem 1.5rem;
+  padding: 1.5rem;
   text-align: center;
   border-radius: 0.75rem;
   -webkit-border-radius: 0.75rem;
@@ -54,7 +54,7 @@ img {
   height: 4.5rem;
   border-radius: 5rem;
   object-fit: cover;
-  margin: 1rem 0;
+  margin: 2rem 0;
   -webkit-border-radius: 5rem;
   -moz-border-radius: 5rem;
   -ms-border-radius: 5rem;
@@ -72,7 +72,7 @@ img {
 }
 
 .personal-info p {
-    font-weight: 700;
+  font-weight: 700;
   color: var(--green);
 }
 
@@ -114,7 +114,5 @@ img {
 @media screen and (min-width: 768px) {
   .wrapper {
     min-width: 22.5rem;
-    padding-left: 2.15rem;
-    padding-right: 2.15rem;
   }
 }
